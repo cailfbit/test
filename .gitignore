@@ -30,3 +30,7 @@
 *.exe
 *.out
 *.app
+
+#clf add
+*.DS_Store
+*.out
