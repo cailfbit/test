@@ -33,4 +33,4 @@
 
 #clf add
 *.DS_Store
-*.out
+.dSYM

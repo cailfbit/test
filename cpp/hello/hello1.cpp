@@ -5,7 +5,10 @@ class A;
 class B{
 public:
     //A a;
-    int printa();
+    int printa(){
+        std::cout << "B::printa" << std::endl;
+        return 0;
+    }
 };
 
 class A{
